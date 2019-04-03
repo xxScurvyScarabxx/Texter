@@ -10,7 +10,7 @@
  * You should have received a copy of the MIT license
  * along with this program.  If not, see
  * < https://opensource.org/licenses/mit-license >.
- *
+ * 
  * ---------------------------------------------------------------------
  * // 日本語
  *
